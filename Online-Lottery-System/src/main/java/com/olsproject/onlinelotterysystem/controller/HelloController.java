@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/")
     public String message(){
-        return "Welcome to Online Lottery System";
+        return "Welcome to Online Lottery System Try your Luck!!!!!!";
     }
 }
